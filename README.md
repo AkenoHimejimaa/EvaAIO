@@ -12,6 +12,7 @@ All you need.
   - Kaisa.
   - Kalista.
   - Katarina.
+  - Senna
   - TwistedFate.
   - Xerath.
 
@@ -21,8 +22,9 @@ All you need.
   - Recall Tracker.
   - HUD Tracker.
   - Spell Tracker.
+  - Spell Timer
   - Ward Tracker.
-  - Minimap Tracekr (In certain circumstances, it reveals the information of some champions at all times).
+  - Minimap Tracker (In certain circumstances, it reveals the information of some champions at all times).
   - Turret Tracker.
 
 **Utilities**
@@ -42,6 +44,9 @@ All you need.
 
 ![github-small](https://github.com/AkenoHimejimaa/EvaAIO/blob/main/Images/SpellTracker.jpeg)
 
+**Spell Timer**
+
+![github-small](https://github.com/AkenoHimejimaa/EvaAIO/blob/main/Images/SpellTimer.png)
 
 
 Discord link: soon.
