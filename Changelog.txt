@@ -6,6 +6,13 @@
 ╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░╚════╝░ v1.0.0.2
 
 
+--------------------------------- v1.0.0.3 ---------------------------------
+
+- Samira added.
+- Recall Tracker: Shen Ultimate added.
+- SpellTimer: New skills added.
+- Code optimization.
+
 --------------------------------- v1.0.0.2 ---------------------------------
 
 - Katarina: Script rewritten. In theory no more FPS drops.
