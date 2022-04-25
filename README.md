@@ -12,6 +12,7 @@ All you need.
   - Kaisa.
   - Kalista.
   - Katarina.
+  - Pyke
   - Samira.
   - Senna.
   - TwistedFate.
@@ -51,4 +52,4 @@ All you need.
 
 
 Discord link: soon.
-EvaAIO will be paid from the update v1.0.0.4
+EvaAIO is paid.
