@@ -51,5 +51,5 @@ All you need.
 ![github-small](https://github.com/AkenoHimejimaa/EvaAIO/blob/main/Images/SpellTimer.png)
 
 
-Discord link: soon.
+Discord link: https://discord.gg/pgM3mEGQUm.
 EvaAIO is paid.
