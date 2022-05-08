@@ -1,3 +1,4 @@
 + Updated to 12.8
 + Minor stuffs fixed
 + EvaAIO will be free until 07/18
++ Discord: https://discord.gg/pgM3mEGQUm
