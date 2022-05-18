@@ -26,21 +26,21 @@ All you need.
   - Recall Tracker.
   - HUD Tracker.
   - Spell Tracker.
-  - Spell Timer
   - Ward Tracker.
   - Minimap Tracker (In certain circumstances, it reveals the information of some champions at all times).
   - Jungle Timer.
   - Turret Tracker.
 
 **Poor Awereness**
-  - Damage 
-
-**Utilities**
   - Damage Indicator.
   - Skin Changer (Only slider atm).
   - Poor Recall Tracker.
   - Poor HUD Tracker.
   - Poor Spell Tracker.
+
+**Utilities**
+  - Base Ult.
+  - Spell Timer
 
 #
 # Some Screenshots
@@ -63,4 +63,4 @@ All you need.
 
 Discord link: https://discord.gg/pgM3mEGQUm.
 
-EvaAIO is free.
+EvaAIO is paid.
