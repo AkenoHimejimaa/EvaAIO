@@ -3,8 +3,20 @@
 █████╗░░╚██╗░██╔╝███████║███████║██║██║░░██║
 ██╔══╝░░░╚████╔╝░██╔══██║██╔══██║██║██║░░██║
 ███████╗░░╚██╔╝░░██║░░██║██║░░██║██║╚█████╔╝
-╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░╚════╝░ v1.0.0.5
+╚══════╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░╚════╝░ v1.0.0.6
 
+
+--------------------------------- v1.0.0.6 ---------------------------------
+
+- Jinx Added.
+- Zed Added.
+- Damage indicator: Change indicator color to black.
+- Senna: Added a line from Senna to souls.
+- Skin Changer: Now can turn it off.
+- Added Poor Awereness: Poor version of original Awereness but FPS friendly.
+- SpellTimer: More spells added.
+- Modularity: Now you can choose which scripts to have activated and which 
+              not.
 
 --------------------------------- v1.0.0.5 ---------------------------------
 

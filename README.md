@@ -9,6 +9,7 @@ All you need.
   - Ezreal.
   - Gangplank.
   - Irelia.
+  - Jinx.
   - Kaisa.
   - Kalista.
   - Katarina.
@@ -17,6 +18,7 @@ All you need.
   - Senna.
   - TwistedFate.
   - Xerath.
+  - Zed
 
 **Awereness**
   - Damage Indicator.
@@ -27,10 +29,18 @@ All you need.
   - Spell Timer
   - Ward Tracker.
   - Minimap Tracker (In certain circumstances, it reveals the information of some champions at all times).
+  - Jungle Timer.
   - Turret Tracker.
 
+**Poor Awereness**
+  - Damage 
+
 **Utilities**
-  - Base Ult.
+  - Damage Indicator.
+  - Skin Changer (Only slider atm).
+  - Poor Recall Tracker.
+  - Poor HUD Tracker.
+  - Poor Spell Tracker.
 
 #
 # Some Screenshots
@@ -53,4 +63,4 @@ All you need.
 
 Discord link: https://discord.gg/pgM3mEGQUm.
 
-EvaAIO is paid.
+EvaAIO is free.
