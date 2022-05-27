@@ -1,5 +1,4 @@
-+ Updated to 12.9
-+ Jinx & Zedd added
-+ Poor Awereness added.
-+ EvaAIO will be free until 05/30
++ Updated to 12.10
++ Fixed Compiler error.
++ EvaAIO will be free until 06/15
 + Discord: https://discord.gg/pgM3mEGQUm
