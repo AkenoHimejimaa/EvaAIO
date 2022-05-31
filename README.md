@@ -63,4 +63,4 @@ All you need.
 
 Discord link: https://discord.gg/pgM3mEGQUm.
 
-EvaAIO is Free until 05/30.
+EvaAIO is Free until 06/15.
