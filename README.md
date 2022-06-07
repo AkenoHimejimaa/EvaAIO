@@ -8,6 +8,7 @@ All you need.
   - Caitlyn.
   - Ezreal.
   - Gangplank.
+  - Illaoi.
   - Irelia.
   - Jinx.
   - Kaisa.
