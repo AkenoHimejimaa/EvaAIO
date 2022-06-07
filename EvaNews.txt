@@ -1,4 +1,3 @@
-+ Updated to 12.10
-+ Fixed Compiler error.
++ Illaoi Added.
 + EvaAIO will be free until 06/15
 + Discord: https://discord.gg/pgM3mEGQUm
