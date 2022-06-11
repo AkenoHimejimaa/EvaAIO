@@ -18,6 +18,7 @@ All you need.
   - Samira.
   - Senna.
   - TwistedFate.
+  - Vayne.
   - Xerath.
   - Zed
 
@@ -64,4 +65,4 @@ All you need.
 
 Discord link: https://discord.gg/pgM3mEGQUm.
 
-EvaAIO is Free until 06/15.
+EvaAIO will be free until further notice.
