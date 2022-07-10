@@ -1,4 +1,6 @@
-+ Vayne Added.
-+ Updated to 12.11.1
++ Irelia Q and E Logic improved.
++ Poor Awereness removed.
++ Awerenes rewritten.
++ Updated to 12.12.1
 + EvaAIO will be free until further notice.
 + Discord: https://discord.gg/pgM3mEGQUm
