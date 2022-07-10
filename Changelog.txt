@@ -10,7 +10,7 @@
 - Irelia: 
     + Q Logic improved.
     + New E Mode.
-- PorrAwereness: Removed.
+- PoorAwereness: Removed.
 - Awerenes: Fully ewritten. No more wait time.
 - New rendering system.
 
